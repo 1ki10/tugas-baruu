@@ -1,0 +1,1 @@
+ini adalah foleder utama pengerjaan project
