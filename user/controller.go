@@ -1,0 +1,1 @@
+ini isi pekerjaan untuk fitur register
