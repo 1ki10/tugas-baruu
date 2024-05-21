@@ -3,7 +3,7 @@ package main
 import "fmt"
 
 func main() {
-	//fmt.Println("Hello World")
+	fmt.Println("Hello World")
 
 	/* Input (angka) -> menerima input / masukan
 	dari luar ke dalam program */
@@ -13,5 +13,10 @@ func main() {
 	fmt.Scanln(&angka)
 
 	fmt.Println("Hasil inputya adalah", angka)
+
+	var nama string
+	fmt.Scanln(&nama)
+
+	fmt.Println("Hasil inputnya adalah", nama)
 
 }
